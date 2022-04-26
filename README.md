@@ -1,5 +1,5 @@
 # Roll the Ball VR
-Android game application built for Google Cardboard using Unity 3D and the [Google VR SDK](https://developers.google.com/vr/develop/unity/get-started-android). Developed for the [Virtual, Augmented, Mixed Reality](https://www.cs.uoi.gr/course/virtual-augmented-mixed-reality/?lang=en) class [@cse.uoi.gr](https://www.cs.uoi.gr/). Apk is available under releases or under Roll the Ball VR\build directory. Alternatively, the project can be imported into Unity using the unitypackage file under Roll the Ball VR\build directory.
+Android game application built for Google Cardboard using Unity 3D and the Google VR SDK. Developed for the [Virtual, Augmented, Mixed Reality](https://www.cs.uoi.gr/course/virtual-augmented-mixed-reality/?lang=en) class @[cse.uoi.gr](https://www.cs.uoi.gr/). Apk is available under releases or under Roll the Ball VR/build directory. Alternatively, the project can be imported into Unity using the unitypackage file under Roll the Ball VR/build directory.
 <br>
 <br>
 
@@ -12,8 +12,8 @@ Android game application built for Google Cardboard using Unity 3D and the [Goog
 ## Gameplay Tips:
 (Some are also displayed in-game)
 - Aim and tap to push the ball into the hole
-- Aim towrads the floor to move forward
-- You can also push obstacle by aiming towards them and tapping
+- Aim towards the floor to move forward
+- You can also push obstacles by aiming towards them and tapping
 - If an obstacle falls into a hole the level is reloaded (lose)
 - If the camera (player) falls into a hole the level is reloaded (lose)
 - If the soccer ball falls into a wrong hole the level is reloaded (lose)
