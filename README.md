@@ -1,5 +1,5 @@
 # Roll the Ball VR
-Android game application built for Google Cardboard using Unity 3D and the Google VR SDK. Developed for the [Virtual, Augmented, Mixed Reality](https://www.cs.uoi.gr/course/virtual-augmented-mixed-reality/?lang=en) class [@cse.uoi.gr](https://www.cs.uoi.gr/). Apk is available under releases. Alternatively, the project can be imported into Unity using the unitypackage file.
+Android game application built for Google Cardboard using Unity 3D and the [Google VR SDK](https://developers.google.com/vr/develop/unity/get-started-android). Developed for the [Virtual, Augmented, Mixed Reality](https://www.cs.uoi.gr/course/virtual-augmented-mixed-reality/?lang=en) class [@cse.uoi.gr](https://www.cs.uoi.gr/). Apk is available under releases or under Roll the Ball VR\build directory. Alternatively, the project can be imported into Unity using the unitypackage file under Roll the Ball VR\build directory.
 <br>
 <br>
 
