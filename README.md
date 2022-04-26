@@ -41,7 +41,7 @@ Android game application built for Google Cardboard using Unity 3D. Developed fo
 
 ## Demo Video:
 - https://youtu.be/rQIIMlVzGkU
-- Note that audio is not captured when the application is running on the phone. However, audio is properly played just as when the game is running within the Unity Editor. An actual Android phone was used for testing (as opposed to an emulator) using scrcpy (https://github.com/Genymobile/scrcpy) to display and control the phone's screen on desktop PC.
+- Note that audio is not captured when the application is running on the phone. However, audio is properly played just as when the game is running within the Unity Editor. An actual Android phone was used for testing (as opposed to an emulator) using [scrcpy](https://github.com/Genymobile/scrcpy) to display and control the phone's screen on desktop PC.
 <br>
 
 ## Team:
